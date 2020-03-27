@@ -1,0 +1,30 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+body {
+    background-color:skyblue;
+}
+
+div {
+    font-size:3em;
+}
+
+i.material-icons {
+    color:maroon;
+    font-size:30px;
+}
+
+#cards {
+    margin:auto;
+    border-spacing:60px 15px;
+}
+
+.card {
+    width:74px;
+    height:106px;
+    padding:0px;
+    border-style:solid;
+    background-image:linear-gradient(to top left, green, rgb(180,255,180))
+}
